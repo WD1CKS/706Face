@@ -5,4 +5,5 @@ PCBs/*/*.gbr
 PCBs/*/*.gbrjob
 PCBs/*/*.kicad_prl
 PCBs/*/*.zip
+PCBs/*/*.step
 PCBs/*/*-backups
