@@ -71,7 +71,7 @@ As above for Shift knob.
 A keepalive packet with a data byte of `00` must be sent periodically.
 If one is not sent for 200ms, the radio shuts itself off.
 
-The stock head unit sends thie message every 100ms.
+The stock head unit sends the message every 100ms.
 
 ## Radio to Head Unit
 
