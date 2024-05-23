@@ -1,1 +1,8 @@
 build
+PCBs/*/fp-info-cache
+PCBs/*/*.drl
+PCBs/*/*.gbr
+PCBs/*/*.gbrjob
+PCBs/*/*.kicad_prl
+PCBs/*/*.zip
+PCBs/*/*-backups
