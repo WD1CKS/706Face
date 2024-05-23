@@ -15,3 +15,8 @@ Planned feature list:
 * Custom designed control panel using consumer parts (ie: Cherry MX switches, arcade spinners, etc)
 * Small LCD display
 * Full functionality of stock faceplate
+
+## References
+
+https://www.oz9aec.net/radios/ic-706/diy-remote-kit-for-the-ic-706-part-2-a-closer-look-at-the-protocol
+https://ok1zia.nagano.cz/wiki/Front_panel_IC-706
