@@ -2,7 +2,7 @@
 
 ## Connectors
 
-The head unit uses pogo pins with approximately 0.95mm plunger diameter, at a 2mm pitch.
+The head unit uses a single row of eight pogo pins with approximately 0.95mm plunger diameter, at a 2mm pitch.
 Male pins are on the radio, pads are on the head unit.
 
 ## Pinout
