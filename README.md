@@ -1,6 +1,6 @@
-# 706Face - An IC-706 Faceplate Emulator
+# 706Face - An IC-706 Head Unit Emulator
 
-This project is to develop a faceplate emulator and replacement CAT system for the IC-706.
+This project is to develop a head unit emulator and replacement CAT system for the IC-706.
 
 ## Hardware
 
@@ -14,7 +14,7 @@ Planned feature list:
 * Integrated CW keyer
 * Custom designed control panel using consumer parts (ie: Cherry MX switches, arcade spinners, etc)
 * Small LCD display
-* Full functionality of stock faceplate
+* Full functionality of stock head unit
 
 ## References
 
