@@ -5,7 +5,7 @@ This documents all the connections that are planned for the Pico.
 
 The 8VDC line almost certainly doesn't provide enough power to run everything
 we plan, so we'll want to use the 13.8VDC output on the ACC port.  We'll want
-to buck down to 5V, and drive the pico LDO from that.
+to buck down to 5V, and drive the pico VSYS from that through a schottky diode.
 
 ## Head unit connector on radio
 
