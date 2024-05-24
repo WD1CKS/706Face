@@ -8,3 +8,5 @@ PCBs/*/*.zip
 PCBs/*/*.step
 PCBs/*/*-backups
 PCBs/*/_autosave-*
+CAD/*.stl
+CAD/*.FCStd1
