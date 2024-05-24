@@ -7,3 +7,4 @@ PCBs/*/*.kicad_prl
 PCBs/*/*.zip
 PCBs/*/*.step
 PCBs/*/*-backups
+PCBs/*/_autosave-*
