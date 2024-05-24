@@ -12,7 +12,7 @@ It appears that pin 1 is on the top of the radio, but this has not been verified
 | Pin | Signal | Description                          |
 |-----|--------|--------------------------------------|
 | 1   | LRXD   | Data from head unit to radio         |
-| 2   | LTXD   | Data from ratio to head unit         |
+| 2   | LTXD   | Data from radio to head unit         |
 | 3   | 8VDC   | Power to head unit                   |
 | 4   | AF     | Receive audio to headphone jack      |
 | 5   | GND    | Ground for everything except the mic |

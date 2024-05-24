@@ -44,7 +44,7 @@ One byte of data, each bit represents the state of a single button.
 | 4   | Lock    |
 | 5   | Display |
 | 6   | F-3     |
-| 6   | F-2     |
+| 7   | F-2     |
 
 ### `03` Tune
 
