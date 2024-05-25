@@ -49,6 +49,8 @@ While we could access the FSK key line via the FSK jack, we're likely to be
 taking our power from ACC anyway, so using the FSKK line allows us to save an
 extra connection.
 
+Hopefully, we can use a PIO for FSK.
+
 | Connector Pin | Pico Pin | Comment           |
 |---------------|----------|-------------------|
 | 10 (FSKK)     | GPIOx    | FSK Keyer         |
@@ -60,6 +62,8 @@ buttons, which uses the keyer and doesn't allow both on at the same time.
 
 This means for CW, we need to connect to the CW jack.  Since we're there, may
 as well connect both signals.
+
+Hopefully, we can use a PIO for CW.
 
 | Connector Pin | Pico Pin | Comment           |
 |---------------|----------|-------------------|
